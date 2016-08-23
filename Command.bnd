@@ -1,0 +1,4 @@
+Export-Package: it.pspgt.helloworld.command
+Bundle-Version: 1.0.0
+Bundle-Activator: it.pspgt.helloworld.command.Activator
+Service-Component: *

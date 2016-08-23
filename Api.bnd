@@ -1,0 +1,4 @@
+Export-Package: it.pspgt.helloworld.api
+Bundle-Version: 1.0.0
+Service-Component: *
+Bundle-Activator: it.pspgt.helloworld.api.Activator
