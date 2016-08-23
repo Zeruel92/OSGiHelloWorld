@@ -1,3 +1,7 @@
+/*
+ * Author Gabriele Tramonte
+ * Classe Finestra che richiama il comando al click del bottone
+ */
 package it.pspgt.helloworld.gui;
 
 import java.awt.event.ActionEvent;

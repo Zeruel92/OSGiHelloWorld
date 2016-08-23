@@ -1,4 +1,8 @@
-package it.pspgt.helloworld;
+/*
+ * Author Gabriele Tramonte
+ * Implementazione dell'interfaccia dell'HelloWorld
+ */
+package it.pspgt.helloworld.impl;
 
 import it.pspgt.helloworld.api.HelloWorldInterface;
 

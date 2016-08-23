@@ -1,3 +1,7 @@
+/*
+ * Author Gabriele Tramonte
+ * Classe Attivatore del Bundle
+ */
 package it.pspgt.helloworld.gui;
 
 import org.apache.felix.dm.DependencyActivatorBase;

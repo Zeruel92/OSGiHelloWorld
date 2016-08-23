@@ -1,4 +1,4 @@
 Bundle-Version: 1.1.1
-Bundle-Activator: it.pspgt.helloworld.Activator
-Export-Package: it.pspgt.helloworld
+Bundle-Activator: it.pspgt.helloworld.impl.Activator
+Export-Package: it.pspgt.helloworld.impl
 Service-Component: *
