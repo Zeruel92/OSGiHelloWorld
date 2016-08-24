@@ -10,7 +10,7 @@ public class HelloWorldImp implements HelloWorldInterface {
 
 	@Override
 	public void hello() {
-		System.out.println("Ciao Primo Progetto OSGi con BNDTools");
+		System.out.println("Ciao Primo Progetto OSGi con BNDTools :D");
 	}
 
 }

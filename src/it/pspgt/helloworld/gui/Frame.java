@@ -27,5 +27,9 @@ public class Frame extends JFrame implements ActionListener {
 		service.hello();
 
 	}
+	
+	public void stop(){
+		this.dispose();
+	}
 
 }
